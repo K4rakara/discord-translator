@@ -7,11 +7,14 @@
   "author": "K4rakara <jack@insertdomain.name>",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^4.1.0",
     "discord.js": "^12.2.0",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "@types/node-fetch": "^2.5.7",
+    "@types/ws": "^7.2.6",
+    "browserify": "^16.5.1",
     "typescript": "^3.9.6"
   }
 }
