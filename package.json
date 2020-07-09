@@ -1,0 +1,17 @@
+{
+  "name": "discord-translator",
+  "version": "0.0.1",
+  "description": "A bot that translates one or more languages on Discord.",
+  "main": "index.js",
+  "repository": "https://github.com/K4rakara/discord-translator",
+  "author": "K4rakara <jack@insertdomain.name>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "typescript": "^3.9.6"
+  }
+}
